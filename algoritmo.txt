@@ -1,0 +1,14 @@
+algoritmo 1
+    1. ler a primeira nota;
+    2. ler a segunda nota;
+    3. calcular a media da notas;
+    4. mostrar a média calculada;
+    5. digite o tatal de aulas;
+    6. ler a frequência em %;
+    7. calcular a porcentagem frequência;
+    8. mostrar a porcentagem de frequência
+    9. se (media>=50 e frequencia>=75%){
+         Aluno aprovado
+         } senao{ 
+            entao aluno reprovado
+         }
